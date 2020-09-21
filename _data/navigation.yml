@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "HOME"
+    url: /home/
+  - title: "RESEARCH"
+    url: /research/
+  - title: "PUBLICATION"
+    url: /publications/
+  - title: "PRESENTATION"
+    url: /presentation/
+  - title: "CV"
+    url: /cv/
+  - title: "RESEARCH RADIO"
+    url: /radiostation/
+  # - title: "DATASET"
+  #  url: /dataset/
+  - title: "CONTACT"
+    url: /contact/
