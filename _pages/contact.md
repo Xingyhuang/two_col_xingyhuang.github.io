@@ -11,7 +11,7 @@ excerpt: ''
 
 ## Contact Information
 
-Welcome to email me for further inquires or research interests.
+For further inquires or research interests, please feel free to email me at xingyhuang at gmail.com or xyhuang at ucsb.edu.
 
 ***Office***: <br>
 UC Santa Barbara <br>
