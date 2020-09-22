@@ -13,6 +13,6 @@ excerpt: ''
 
 Stay tunned for this new weekly climate research radio. The content will be updated weekly (ideally each Sunday). Please feel free to send me your feedback or other journals you are mostly interested.
 
-***[Sep. 20th] - Nature Climate Change***: <br> 
+***[Sep. 20th] - Nature Climate Change*** <br> 
 <audio src="/assets/radio/issue_1-ncc-09_20_2020.mp3" controls preload> </audio>
 
