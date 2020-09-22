@@ -11,6 +11,8 @@ excerpt: ''
 
 ## Contact Information
 
+Welcome to email me for inquires or research interests.
+
 ***Office***: <br>
 UC Santa Barbara <br>
 3308 Bren Hall <br>
