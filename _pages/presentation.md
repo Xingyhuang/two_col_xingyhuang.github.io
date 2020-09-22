@@ -11,6 +11,8 @@ excerpt: ''
 
 ***[Selected recent oral presentations]***
 
+**Huang, X.**. Climate modeling for extreme storm events over California. GS^3 Simulation Series for the Summer of 2020, virtual, July, 2020.
+
 **Huang, X.**, Swain, D.L., and Hall, A.D., (***invited***). California Precipitation Extremes in a Warming Climate: Linking Large-Scale Forcing from CESM Large Ensemble to Fine-Scale Weather Features. AGU Fall Meeting, San Francisco, CA, 2019.
 
 **Huang, X.**, Exploration of solving downscaling problems using deep learning-based image super-resolution techniques, AGU Fall Meeting, San Francisco, CA, 2019.
