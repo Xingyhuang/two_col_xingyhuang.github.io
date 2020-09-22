@@ -44,7 +44,7 @@ feature_row4:
 
 ## Research overview
 
-My long-term goal is to bridge the gaps between global and regional climate and hydrological processes, and by doing so to provide improved risk assessments associated with future climate extremes and variability that can be of use to policy and stakeholder communities. I use various methods and techniques in my research, including coupled atmospheric-oceanic global modeling, high-resolution regional atmospheric modeling, machine learning methods, and observational data. I am also interested in bringing new modeling and analyzing methods into my research with interdisciplinary perspectives and collaborations from not only atmospheric and oceanic sciences, but also geography, economics, computing, and environmental sciences, etc.
+My long-term goal is to bridge the gaps between global and regional climate and hydrological processes, and by doing so to provide improved risk assessments associated with future climate extremes and variability that can be of use to policy and stakeholder communities. I use various methods and techniques in my research, including coupled atmospheric-oceanic global modeling, high-resolution regional atmospheric modeling, machine learning methods, and observational data. I am also interested in bringing new modeling and analyzing methods into my research with interdisciplinary perspectives and collaborations from not only Earth  Science, but also economics, computing, and statistics, etc.
 
 ---
 
