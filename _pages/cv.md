@@ -8,12 +8,12 @@ header:
 excerpt: ''
 
 ---
-## [CV](/assets/images/papers/cv_huang_updated.pdf) *(Updated 08/2020)*
+## [CV](/assets/Huang_CV_0920.pdf) *(Updated 09/2020)*
 
 ## Education
 
 **Ph.D., Atmospheric Science, University of California, Davis (2016)** <br>
-Committee: Paul A. Ullrich (Chair), Terry Nathan, Richard Grotjahn, Travis O’Brien, and Daniel Feldman <br>
+Committee: Paul A. Ullrich (Chair, Advisor), Terry Nathan, Richard Grotjahn, Travis O’Brien, and Daniel Feldman <br>
 Minor in M.S. of Statistics with coursework completed
 
 **M.S., Remote Sensing, Beijing Normal University (2013)** <br>
@@ -26,7 +26,7 @@ Graduated with honors (top one of the program)
 ## Award 
 
 **University of California, Davis** <br>
-Graduate program fellowship in Atmospheric Science (2013, 2014)
+Graduate program fellowship in Atmospheric Science (2013-2014)
 
 **Beijing Normal University** <br>
 National Scholarship, Outstanding Graduate Award (2012, 2013) <br>
