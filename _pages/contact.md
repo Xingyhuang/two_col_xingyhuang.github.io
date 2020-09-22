@@ -11,7 +11,7 @@ excerpt: ''
 
 ## Contact Information
 
-Welcome to email me for inquires or research interests.
+Welcome to email me for further inquires or research interests.
 
 ***Office***: <br>
 UC Santa Barbara <br>
