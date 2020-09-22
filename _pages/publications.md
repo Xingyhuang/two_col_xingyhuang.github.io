@@ -11,7 +11,7 @@ excerpt: ''
 
 ***[Manuscripts under review]***
 
-**Huang, X.:**, Deep-learning based climate downscaling using the super-resolution method: a case study over the western US, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2020-214, in review, 2020.
+**Huang, X.**, Deep-learning based climate downscaling using the super-resolution method: a case study over the western US. Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2020-214, in review, 2020.
 
 ***[Peer-reviewed articles]***
 
