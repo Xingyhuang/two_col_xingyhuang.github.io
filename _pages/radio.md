@@ -11,7 +11,7 @@ excerpt: ''
 
 ## Climate Research Radio (testing phase)
 
-Welcome to this new climate research radio. The content will be updated accordingly. Please feel free to send me your feedback or journals you are mostly interested. More is to come. Stay tunned.
+Welcome to this new climate research radio. The content will be updated accordingly. Please feel free to send me your feedback. Stay tunned.
 
 ***[Oct. 11th] - Journal of Climate*** <br> 
 <audio src="/assets/radio/issue_3-jcli-10_11_2020.mp3" controls preload> </audio>
