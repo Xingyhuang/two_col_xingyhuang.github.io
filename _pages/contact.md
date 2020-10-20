@@ -11,7 +11,7 @@ excerpt: ''
 
 ## Contact Information
 
-For research interests or further inquires about dataset or others relevant, please feel free to contact.
+For research interests, inquiries, or collaborations, feel free to contact.
 
 ***Office***: <br>
 UC Santa Barbara <br>
