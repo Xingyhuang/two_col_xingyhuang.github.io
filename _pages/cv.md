@@ -8,7 +8,7 @@ header:
 excerpt: ''
 
 ---
-## [CV](/assets/Huang_CV_0920.pdf) *(Updated 09/2020)*
+## [CV](/assets/Huang_CV.pdf) *(Updated 10/2020)*
 
 ## Education
 
