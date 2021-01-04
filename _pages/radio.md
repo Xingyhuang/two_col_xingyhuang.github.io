@@ -25,6 +25,8 @@ Welcome to this new climate research radio. The content will be updated accordin
 ***[Jan. 3rd, 2021] - Earth’s Future*** <br> 
 <audio src="/assets/radio/earth_jan1_MP3WRAP.mp3" controls preload> </audio>
 
+<details><summary>Arxived Radios</summary>
+<p>
 
 ***[Oct. 11th, 2020] - Journal of Climate*** <br> 
 <audio src="/assets/radio/issue_3-jcli-10_11_2020.mp3" controls preload> </audio>
@@ -34,4 +36,8 @@ Welcome to this new climate research radio. The content will be updated accordin
 
 ***[Sep. 20th, 2020] - Nature Climate Change*** <br> 
 <audio src="/assets/radio/issue_1-ncc-09_20_2020.mp3" controls preload> </audio>
+
+</p>
+</details>
+
 
