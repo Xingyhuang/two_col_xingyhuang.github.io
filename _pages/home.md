@@ -18,6 +18,8 @@ I received my PhD in Atmospheric Science from the University of California, Davi
 
 # Recent news
 
+**December 9, 2020:** Honored the CYWater 2020 Young Scientist Best Paper Award. [[link of the paper](https://advances.sciencemag.org/content/6/29/eaba1323), open access]
+
 **August 10, 2020:** A recent leading paper on "potential severe floods risk in California induced by extreme atmospheric river events" released online at Geophysical Research Letters. [[link of the paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088679)] [[Infographic](/assets/images/papers/UCLA-AR-GRL-2020.pdf)] [[UCLA's Newsroom coverage](https://newsroom.ucla.edu/releases/warming-california-future-floods-reservoirs)] [[UCSB's Newsroom coverage](https://www.news.ucsb.edu/2020/020019/future-flooding)]
 
 **July 27, 2020:** A talk was given at the GS^3 Simulation Series for the Summer of 2020 about "Climate modeling for extreme storm events over California". (Slides can be shared if interested)
