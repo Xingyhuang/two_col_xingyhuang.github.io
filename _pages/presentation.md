@@ -11,6 +11,8 @@ excerpt: ''
 
 ***[Selected recent oral presentations]***
 
+**Huang, X.**. Studies of Extreme atmospheric river storms in California. CYWater 2020 Young Scientist Best Paper Award Ceremony, virtual, December 17, 2020.
+
 **Huang, X.**. Climate modeling for extreme storm events over California. GS^3 Simulation Series for the Summer of 2020, virtual, July, 2020.
 
 **Huang, X.**, Swain, D.L., and Hall, A.D., (***invited***). California Precipitation Extremes in a Warming Climate: Linking Large-Scale Forcing from CESM Large Ensemble to Fine-Scale Weather Features. AGU Fall Meeting, San Francisco, CA, 2019.
@@ -33,6 +35,8 @@ Hall, A.D., Goldenson, N.L., **Huang, X.**, and Thackeray, C.W., Can GCMs produc
 
 
 ***[Selected recent poster presentations]***
+
+**Huang, X.**, and Stevenson, S. Future changes to north Pacific mean-state and the con- nections to the western US precipitation extremes from multiple GCM large-ensembles. AGU Fall Meeting, Virtually, December, 2020.
 
 **Huang, X.**, Hall, A.D., and Swain, D.L. Future Warming Impacts on Orographic Precipitation Extremes over Sierra Nevada: Linking Large-scale Forcing from CESM-LENS to Fine-scale Climate Features. CESM Large Ensembles Workshop, Boulder, Colorado. July, 2019.
 
