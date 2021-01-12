@@ -13,6 +13,20 @@ excerpt: ''
 
 Welcome to this new climate research radio. The content will be updated accordingly. Please feel free to send me your feedback. Stay tunned.
 
+***[Jan. 10th, 2021] - Nature Climate Change*** <br> 
+<audio src="/assets/radio/ncc_jan10_MP3WRAP.mp3" controls preload> </audio>
+
+***[Jan. 10th, 2021] - Water Resources Research*** <br> 
+<audio src="/assets/radio/water_jan10_MP3WRAP.mp3" controls preload> </audio>
+
+***[Jan. 10th, 2021] - Geophysical Research letters*** <br> 
+<audio src="/assets/radio/grl_jan10_MP3WRAP.mp3" controls preload> </audio>
+
+***[Jan. 10th, 2021] - Earth’s Future*** <br> 
+<audio src="/assets/radio/earth_jan10_MP3WRAP.mp3" controls preload> </audio>
+
+
+
 ***[Jan. 3rd, 2021] - Nature Climate Change*** <br> 
 <audio src="/assets/radio/ncc_jan1_MP3WRAP.mp3" controls preload> </audio>
 
