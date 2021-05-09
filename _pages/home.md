@@ -11,10 +11,7 @@ excerpt: ''
 
 # Welcome!
 
-I am a postdoctoral researcher at the University of California, Santa Barbara in [Samantha Stevenson's group](https://www.samanthalstevenson.com/). My research focuses on understanding the response of atmospheric dynamics to external climate forcing, the associated changes to the behavior of extreme events, and how to build credible climate projections. I am also interested in how extreme weather events would affect hydrological cycle and ecosystems, and the integration of machine learning techniques into climate sciences.
-
-
-I received my PhD in Atmospheric Science from the University of California, Davis in December 2016 in [Paul Ullrich's group](https://climate.ucdavis.edu/). After graduating, I took a postdoctoral research position in the Department of Atmospheric and Oceanic Sciences, at the University of California, Los Angeles in [Alex Hall's group](https://dept.atmos.ucla.edu/alexhall/home) and [UCLA's Center of Climate Science](https://www.ioes.ucla.edu/climate/). I then moved to my current postdoctoral research at the [Earth Research Institute](https://www.eri.ucsb.edu/) in the beautiful Santa Barbara.
+I am working as a project scientist at National Center for Atmospheric Research (NCAR) since May 2021. Before joining NCAR, I did my postdoctoral research at the University of California, Los Angeles in [Alex Hall's group](https://dept.atmos.ucla.edu/alexhall/home) and at the University of California, Santa Barbara in [Samantha Stevenson's group](https://www.samanthalstevenson.com/). My research focuses on understanding the response of atmospheric dynamics to external climate forcing, the associated changes to the behavior of extreme events, and how to build credible climate projections. I am also interested in how extreme weather events would affect hydrological cycle and ecosystems, and the integration of machine learning techniques into climate sciences. I received my PhD in Atmospheric Science from the University of California, Davis in [Paul Ullrich's group](https://climate.ucdavis.edu/). 
 
 # Recent news
 
