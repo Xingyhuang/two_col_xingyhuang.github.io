@@ -11,7 +11,7 @@ excerpt: ''
 
 ***[Manuscripts under revision/review]***
 
-**Huang, X.**, Stevenson, S., ENSO’s modulating effect on projected future precipitation extremes in California. *Geophysical Research Letters.* in review.
+**Huang, X.**, Stevenson, S., ENSO’s modulating effect on projected future precipitation extremes in California. *Geophysical Research Letters.* in revision.
 
 Touma, D., Stevenson S., Swain D.L., Singh D., Kalashnikov D., and **Huang X.**, Climate change increases risk of extreme rainfall following wildfire in the western
 United States. *Science Advances*. In revision.
