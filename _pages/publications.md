@@ -11,9 +11,14 @@ excerpt: ''
 
 ***[Manuscripts under revision/review]***
 
-**Huang, X.**, Stevenson, S., The impact of future North Pacific mean circulation changes on western US precipitation extremes. in review, 2021.
+**Huang, X.**, Stevenson, S., ENSO’s modulating effect on projected future precipitation extremes in California. *Geophysical Research Letters.* in review.
+
+Touma, D., Stevenson S., Swain D.L., Singh D., Kalashnikov D., and **Huang X.**, Climate change increases risk of extreme rainfall following wildfire in the western
+United States. *Science Advances*. In revision.
 
 ***[Peer-reviewed articles]***
+
+**Huang, X.**, and Stevenson, S., 2021. Connections between mean North Pacific circulation and western US precipitation extremes in a warming climate. *Earth's Future, 9(6), p.e2020EF001944.*
 
 **Huang, X.**, Stevenson, S. and Hall, A.D., 2020. Future warming and intensification of precipitation extremes: A ‘double whammy’ leading to increasing flood risk in California. *Geophysical Research Letters, 47, e2020GL088679.* [doi:10.1029/2020GL088679](https://doi.org/10.1029/2020GL088679).
 
