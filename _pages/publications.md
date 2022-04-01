@@ -11,12 +11,14 @@ excerpt: ''
 
 ***[Manuscripts under revision/review]***
 
-**Huang, X.**, Stevenson, S., ENSO’s modulating effect on projected future precipitation extremes in California. *Geophysical Research Letters.* in revision.
+**Huang, X.**, Stevenson, S., ENSO’s modulating effect on projected future precipitation extremes in California. *Geophysical Research Letters.* In revision.
 
-Touma, D., Stevenson S., Swain D.L., Singh D., Kalashnikov D., and **Huang X.**, Climate change increases risk of extreme rainfall following wildfire in the western
-United States. *Science Advances*. In revision.
+Swain, D.L., **Huang, X.**, Climate Change is Increasing the Risk of a California Megaflood. In revision.
 
 ***[Peer-reviewed articles]***
+
+Touma, D., Stevenson S., Swain D.L., Singh D., Kalashnikov D., and **Huang X.**, Climate change increases risk of extreme rainfall following wildfire in the western
+United States. *Science Advances*. In press.
 
 **Huang, X.**, and Stevenson, S., 2021. Connections between mean North Pacific circulation and western US precipitation extremes in a warming climate. *Earth's Future, 9(6), p.e2020EF001944.*
 
